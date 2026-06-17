@@ -25,7 +25,7 @@ This is a coursework project from my **AP Degree in IT (Akademiuddannelse i Info
 
 | File | Description |
 |------|-------------|
-| `create database.sql` | Schema — all table definitions, keys, and constraints. |
+| `create_database.sql` | Schema — all table definitions, keys, and constraints. |
 | `populate.sql` | Sample data (fabricated test data only). |
 | `procedure_acceptRideOffer.sql` | Transaction-wrapped stored procedure for accepting an offer. |
 | `event_updateExpiredRideRequests.sql` | Scheduled event that expires stale ride requests. |
